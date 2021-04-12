@@ -1,0 +1,75 @@
+2021-04-12 10:52:17,737 bulkload.views DEBUG    In Django bulk_create
+2021-04-12 10:52:40,251 bulkload.views DEBUG    In Django bulk_create
+2021-04-12 10:53:15,614 bulkload.views DEBUG    In Postgres copy_from
+2021-04-12 10:53:27,704 bulkload.views DEBUG    In Postgres copy_from
+2021-04-12 10:53:29,812 bulkload.views DEBUG    num_records: 20250
+2021-04-12 10:53:29,813 bulkload.views DEBUG    offset: 0
+2021-04-12 10:53:32,972 bulkload.views DEBUG    Response.headers: {'Date': 'Mon, 12 Apr 2021 16:53:32 GMT', 'Server': 'WSGIServer/0.2 CPython/3.6.3', 'Content-Type': 'application/json', 'Vary': 'Accept, Cookie', 'Allow': 'GET, POST, HEAD, OPTIONS', 'X-Frame-Options': 'SAMEORIGIN', 'Content-Length': '3570322'}
+2021-04-12 10:53:32,972 bulkload.views DEBUG    Response.status_code: 200
+2021-04-12 10:53:32,973 bulkload.views DEBUG    Got speakers back, success!!!
+2021-04-12 10:53:33,163 bulkload.views DEBUG    duration in seconds: 0.08182311058044434
+2021-04-12 10:53:33,175 bulkload.views DEBUG    Created 20250 rows in 81.82311058044434 milliseconds
+2021-04-12 10:53:34,053 bulkload.views DEBUG    In Postgres copy_from
+2021-04-12 10:53:36,148 bulkload.views DEBUG    num_records: 20250
+2021-04-12 10:53:36,149 bulkload.views DEBUG    offset: 0
+2021-04-12 10:53:39,325 bulkload.views DEBUG    Response.headers: {'Date': 'Mon, 12 Apr 2021 16:53:39 GMT', 'Server': 'WSGIServer/0.2 CPython/3.6.3', 'Content-Type': 'application/json', 'Vary': 'Accept, Cookie', 'Allow': 'GET, POST, HEAD, OPTIONS', 'X-Frame-Options': 'SAMEORIGIN', 'Content-Length': '3570322'}
+2021-04-12 10:53:39,325 bulkload.views DEBUG    Response.status_code: 200
+2021-04-12 10:53:39,326 bulkload.views DEBUG    Got speakers back, success!!!
+2021-04-12 10:53:39,585 bulkload.views DEBUG    duration in seconds: 0.08710622787475586
+2021-04-12 10:53:39,597 bulkload.views DEBUG    Created 20250 rows in 87.10622787475586 milliseconds
+2021-04-12 10:54:12,642 bulkload.views DEBUG    In Django bulk_create
+2021-04-12 10:54:14,718 bulkload.views DEBUG    num_records: 20250
+2021-04-12 10:54:14,718 bulkload.views DEBUG    offset: 0
+2021-04-12 10:54:17,932 bulkload.views DEBUG    Response.headers: {'Date': 'Mon, 12 Apr 2021 16:54:17 GMT', 'Server': 'WSGIServer/0.2 CPython/3.6.3', 'Content-Type': 'application/json', 'Vary': 'Accept, Cookie', 'Allow': 'GET, POST, HEAD, OPTIONS', 'X-Frame-Options': 'SAMEORIGIN', 'Content-Length': '3570322'}
+2021-04-12 10:54:17,932 bulkload.views DEBUG    Response.status_code: 200
+2021-04-12 10:54:17,935 bulkload.views DEBUG    Got speakers back, success!!!
+2021-04-12 10:54:19,890 bulkload.views DEBUG    duration in seconds: 1.7947983741760254
+2021-04-12 10:54:19,903 bulkload.views DEBUG    Created 20250 rows in 1794.7983741760254 milliseconds
+2021-04-12 10:54:26,690 bulkload.views DEBUG    In Postgres copy_from
+2021-04-12 10:54:28,765 bulkload.views DEBUG    num_records: 20250
+2021-04-12 10:54:28,766 bulkload.views DEBUG    offset: 0
+2021-04-12 10:54:32,068 bulkload.views DEBUG    Response.headers: {'Date': 'Mon, 12 Apr 2021 16:54:32 GMT', 'Server': 'WSGIServer/0.2 CPython/3.6.3', 'Content-Type': 'application/json', 'Vary': 'Accept, Cookie', 'Allow': 'GET, POST, HEAD, OPTIONS', 'X-Frame-Options': 'SAMEORIGIN', 'Content-Length': '3570322'}
+2021-04-12 10:54:32,069 bulkload.views DEBUG    Response.status_code: 200
+2021-04-12 10:54:32,071 bulkload.views DEBUG    Got speakers back, success!!!
+2021-04-12 10:54:32,289 bulkload.views DEBUG    duration in seconds: 0.08340311050415039
+2021-04-12 10:54:32,303 bulkload.views DEBUG    Created 20250 rows in 83.40311050415039 milliseconds
+2021-04-12 10:55:12,374 bulkload.views DEBUG    In Django bulk_create
+2021-04-12 10:55:14,470 bulkload.views DEBUG    num_records: 20250
+2021-04-12 10:55:14,471 bulkload.views DEBUG    offset: 0
+2021-04-12 10:55:17,695 bulkload.views DEBUG    Response.headers: {'Date': 'Mon, 12 Apr 2021 16:55:17 GMT', 'Server': 'WSGIServer/0.2 CPython/3.6.3', 'Content-Type': 'application/json', 'Vary': 'Accept, Cookie', 'Allow': 'GET, POST, HEAD, OPTIONS', 'X-Frame-Options': 'SAMEORIGIN', 'Content-Length': '3570322'}
+2021-04-12 10:55:17,696 bulkload.views DEBUG    Response.status_code: 200
+2021-04-12 10:55:17,696 bulkload.views DEBUG    Got speakers back, success!!!
+2021-04-12 10:55:19,007 bulkload.views DEBUG    duration in seconds: 1.2191903591156006
+2021-04-12 10:55:19,022 bulkload.views DEBUG    Created 20250 rows in 1219.1903591156006 milliseconds
+2021-04-12 10:55:38,851 bulkload.views DEBUG    In Postgres copy_from
+2021-04-12 10:55:40,940 bulkload.views DEBUG    num_records: 20250
+2021-04-12 10:55:40,941 bulkload.views DEBUG    offset: 0
+2021-04-12 10:55:44,170 bulkload.views DEBUG    Response.headers: {'Date': 'Mon, 12 Apr 2021 16:55:44 GMT', 'Server': 'WSGIServer/0.2 CPython/3.6.3', 'Content-Type': 'application/json', 'Vary': 'Accept, Cookie', 'Allow': 'GET, POST, HEAD, OPTIONS', 'X-Frame-Options': 'SAMEORIGIN', 'Content-Length': '3570322'}
+2021-04-12 10:55:44,171 bulkload.views DEBUG    Response.status_code: 200
+2021-04-12 10:55:44,174 bulkload.views DEBUG    Got speakers back, success!!!
+2021-04-12 10:55:44,395 bulkload.views DEBUG    duration in seconds: 0.08304142951965332
+2021-04-12 10:55:44,407 bulkload.views DEBUG    Created 20250 rows in 83.04142951965332 milliseconds
+2021-04-12 12:07:01,830 bulkload.views DEBUG    In Postgres copy_from
+2021-04-12 12:07:03,923 bulkload.views DEBUG    num_records: 20250
+2021-04-12 12:07:03,924 bulkload.views DEBUG    offset: 0
+2021-04-12 12:07:07,416 bulkload.views DEBUG    Response.headers: {'Date': 'Mon, 12 Apr 2021 18:07:07 GMT', 'Server': 'WSGIServer/0.2 CPython/3.6.3', 'Content-Type': 'application/json', 'Vary': 'Accept, Cookie', 'Allow': 'GET, POST, HEAD, OPTIONS', 'X-Frame-Options': 'SAMEORIGIN', 'Content-Length': '3570322'}
+2021-04-12 12:07:07,417 bulkload.views DEBUG    Response.status_code: 200
+2021-04-12 12:07:07,420 bulkload.views DEBUG    Got speakers back, success!!!
+2021-04-12 12:07:07,742 bulkload.views DEBUG    duration in seconds: 0.11100172996520996
+2021-04-12 12:07:07,756 bulkload.views DEBUG    Created 20250 rows in 111.00172996520996 milliseconds
+2021-04-12 12:07:43,441 bulkload.views DEBUG    In Django bulk_create
+2021-04-12 12:07:45,549 bulkload.views DEBUG    num_records: 20250
+2021-04-12 12:07:45,550 bulkload.views DEBUG    offset: 0
+2021-04-12 12:07:49,153 bulkload.views DEBUG    Response.headers: {'Date': 'Mon, 12 Apr 2021 18:07:49 GMT', 'Server': 'WSGIServer/0.2 CPython/3.6.3', 'Content-Type': 'application/json', 'Vary': 'Accept, Cookie', 'Allow': 'GET, POST, HEAD, OPTIONS', 'X-Frame-Options': 'SAMEORIGIN', 'Content-Length': '3570322'}
+2021-04-12 12:07:49,153 bulkload.views DEBUG    Response.status_code: 200
+2021-04-12 12:07:49,155 bulkload.views DEBUG    Got speakers back, success!!!
+2021-04-12 12:07:52,082 bulkload.views DEBUG    duration in seconds: 2.638241767883301
+2021-04-12 12:07:52,095 bulkload.views DEBUG    Created 20250 rows in 2638.241767883301 milliseconds
+2021-04-12 12:08:44,332 bulkload.views DEBUG    In Postgres copy_from
+2021-04-12 12:08:46,435 bulkload.views DEBUG    num_records: 20250
+2021-04-12 12:08:46,436 bulkload.views DEBUG    offset: 0
+2021-04-12 12:08:49,958 bulkload.views DEBUG    Response.headers: {'Date': 'Mon, 12 Apr 2021 18:08:49 GMT', 'Server': 'WSGIServer/0.2 CPython/3.6.3', 'Content-Type': 'application/json', 'Vary': 'Accept, Cookie', 'Allow': 'GET, POST, HEAD, OPTIONS', 'X-Frame-Options': 'SAMEORIGIN', 'Content-Length': '3570322'}
+2021-04-12 12:08:49,959 bulkload.views DEBUG    Response.status_code: 200
+2021-04-12 12:08:49,961 bulkload.views DEBUG    Got speakers back, success!!!
+2021-04-12 12:08:50,298 bulkload.views DEBUG    duration in seconds: 0.09479498863220215
+2021-04-12 12:08:50,311 bulkload.views DEBUG    Created 20250 rows in 94.79498863220215 milliseconds
