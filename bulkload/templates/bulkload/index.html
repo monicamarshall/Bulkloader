@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Data Bulk Load to Postgres via csv file</title>
+  </head>
+  <body>
+  <h2 style="font-family: Verdana; color: blue" >Select Bulk Loading Method:</h2>
+	    <ul>
+	        <li><h3>Postgres 'copy_from':  <a href="{% url 'bulkload:copy_from' %}">copy_from</a></h3></li>
+	        <li><h3>Django ORM 'bulk_create':  <a href="{% url 'bulkload:bulk_create' %}">bulk_create</a></h3></li>
+	    </ul>
+	    <h4>Source code from: <a href = "https://github.com/stefano/bulk_insert_experiment">https://github.com/stefano/bulk_insert_experiment</a></h4>
+ </body>
+</html>
