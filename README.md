@@ -20,7 +20,7 @@ The speaker.csv files created from reading the json output and written to a csv 
 
 After the bulkload has finished, all records are deleted from the database.  
 
-To preserve all records in the database uncomment line 95 in bulkload/views.py:  models.Speaker.objects.all().delete()
+To preserve all records in the database comment out line 95 in bulkload/views.py:  models.Speaker.objects.all().delete()
 
 Access the Speaker service at: http://localhost:8089/bulkload/ (The port is decided at the time the server is started)
 
